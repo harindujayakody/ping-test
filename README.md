@@ -1,7 +1,5 @@
 # Python Ping Tool
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 A simple Python tool to ping a website, calculate response times, and display ping statistics in a themed interface.
 
 ## Table of Contents
@@ -45,3 +43,5 @@ A simple Python tool to ping a website, calculate response times, and display pi
 ![Screenshot](screenshot.png)
 
 3. To quit the tool, type 'q' at any time.
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
