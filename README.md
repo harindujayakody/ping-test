@@ -1,6 +1,3 @@
-Certainly! Below is a sample GitHub README for your Python Ping Tool script. You can copy and paste this into your repository's README.md file and customize it as needed:
-
-```markdown
 # Python Ping Tool
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
