@@ -9,7 +9,6 @@ A simple Python tool to ping a website, calculate response times, and display pi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -46,10 +45,3 @@ A simple Python tool to ping a website, calculate response times, and display pi
 ![Screenshot](screenshot.png)
 
 3. To quit the tool, type 'q' at any time.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace "yourusername" in the installation section with your actual GitHub username or the repository URL. You can also include a screenshot of the tool in the README for better visualization.
