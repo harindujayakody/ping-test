@@ -40,9 +40,9 @@ A simple Python tool to ping a website, calculate response times, and display pi
    - The tool will ping the website three times and display response times.
    - Packet loss statistics, including minimum, maximum, and average response times, will be shown.
 
-![Screenshot](screenshot.png)
+![Screenshot](![image](https://github.com/harindujayakody/python-ping-tool/assets/9878813/6db8d23a-a456-479a-b583-451871117a0f)
+)
 
 3. To quit the tool, type 'q' at any time.
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
-
