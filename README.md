@@ -44,4 +44,5 @@ A simple Python tool to ping a website, calculate response times, and display pi
 
 3. To quit the tool, type 'q' at any time.
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+
