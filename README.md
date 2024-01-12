@@ -20,7 +20,7 @@ A simple Python tool to ping a website, calculate response times, and display pi
 
 1. Clone the repository or download the script:
    ```sh
-   git clone https://github.com/yourusername/python-ping-tool.git
+   git clone https://github.com/harindujayakody/python-ping-tool.git
    ```
 
 2. Install the required packages using pip:
